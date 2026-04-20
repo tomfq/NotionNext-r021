@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2023-09-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -20,8 +20,8 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '知识分享',
   HEO_HERO_TITLE_2: '超越自我',
-  HEO_HERO_TITLE_3: 'R021.top',
-  HEO_HERO_TITLE_4: 'NotionNext 4.9',
+  HEO_HERO_TITLE_3: 'R021.TOP',
+  HEO_HERO_TITLE_4: 'NotionNext v4.9.4.2',
   HEO_HERO_TITLE_5: '内容同步更新中...',
   HEO_HERO_TITLE_LINK: 'https://r021.top',
   // 英雄区遮罩文字
